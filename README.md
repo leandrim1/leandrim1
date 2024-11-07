@@ -13,7 +13,7 @@
 
 <br/>
 <div style="display: inline_block" align="center">
-    <img alt="leandro" src="https://skillicons.dev/icons?i=html,css,g" />
+    <img alt="leandro" src="https://skillicons.dev/icons?i=html,css," />
     <img alt="leandro" src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
 </div>
 
