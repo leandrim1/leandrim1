@@ -1,18 +1,26 @@
 ## HELLO, MY NAMES IS LEANDRO RODRIGUES
 
-<h3 align="center">
+<h2 align="center">
 I am a student in Information Systems
+</h2>
+
+<h3 align="center">
+Studying Javascript, HTML and CSS...
 </h3>
 
-- 🌱 Studying Javascript, HTML and CSS...
-- 😄 Pronouns: he/him
-
-<h3 align="center"><b>Connect with me:</b></h3>
 <div>
   <a href="https://github.com/leandrim1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrim1&show_icons=true&theme=radical&include_all_commits-true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrim1&layout=compact&langs_count=16&theme=radical"/>
 </div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img alt="leandro" src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img alt="leandro" src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
 <div style="display: inline_block" aling="center"><br>
   <img align="center-right" alt="leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leandro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
