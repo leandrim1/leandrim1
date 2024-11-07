@@ -1,16 +1,17 @@
-## HELLO, MY NAMES IS LEANDRO RODRIGUES👋
+## HELLO, MY NAMES IS LEANDRO RODRIGUES
 
-<p align="center">
+<h3 align="center">
 I am a student in Information Systems
-</p>
+</h3>
 
 - 🌱 Studying Javascript, HTML and CSS...
 - 😄 Pronouns: he/him
 
+<h3 align="center"><b>Connect with me:</b></h3>
 <div>
   <a href="https://github.com/leandrim1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrim1&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrim1&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrim1&show_icons=true&theme=radical&include_all_commits-true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrim1&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div style="display: inline_block" aling="center"><br>
   <img align="center-right" alt="leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
