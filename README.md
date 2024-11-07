@@ -1,7 +1,11 @@
-## Olá! Eu sou o leandrim1 👋
+## HELLO, MY NAMES IS LEANDRO RODRIGUES👋
 
-- 🌱 Estudando Javascript, HTML e CSS...
-- 😄 Pronouns: ele/dele
+<p align="center">
+I am a student in Information Systems
+</p>
+
+- 🌱 Studying Javascript, HTML and CSS...
+- 😄 Pronouns: he/him
 
 <div>
   <a href="https://github.com/leandrim1">
