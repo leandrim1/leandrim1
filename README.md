@@ -1,18 +1,17 @@
-## HELLO, MY NAMES IS LEANDRO RODRIGUES
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h2 align="center">
-I am a student in Information Systems
-</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+LEANDRO+RODRIGUES+GOMES;I'm+19+years+old;I+study+information+systems;Student+at+Faculdade+Anhanguera+Educacional;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <h3 align="center">
-Studying Javascript, HTML and CSS...
+I am currently an Information Systems Student at Faculdade Anhanguera Educacional. I'm studying Javascript, HTML and CSS....
 </h3>
 
-<div>
-  <a href="https://github.com/leandrim1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrim1&show_icons=true&theme=radical&include_all_commits-true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrim1&layout=compact&langs_count=16&theme=radical"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leandrim1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="leandrim1 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrim1&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leandrim1&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -37,6 +36,8 @@ Studying Javascript, HTML and CSS...
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrim1/leandrim1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: radical)" srcset="https://raw.githubusercontent.com/leandrim1/leandrim1/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrim1/leandrim1/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leandrim1/leandrim1/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
