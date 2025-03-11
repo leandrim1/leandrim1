@@ -13,7 +13,6 @@
 
 <br/>
 <div align="center">
-  <h3>Current Languages and Tools</h3>
 <table>
   <tbody>
     <tr>
