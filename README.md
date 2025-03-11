@@ -85,7 +85,7 @@
           height="40"
           alt="java logo"
         />
-        <img width="12" /> Java
+        <img width="12" /> Tailwind CSS
       </td>
     </tr>
   </tbody>
