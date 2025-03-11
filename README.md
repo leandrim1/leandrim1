@@ -25,14 +25,6 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13" /> React Native
-      </td>
-      <td>
-        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
           height="40"
           alt="javascript logo"
@@ -47,32 +39,8 @@
         />
         <img width="13" /> ReactJs
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13"/> .Net Core 8
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-          height="40"
-          alt="git logo"
-        />
-        <img width="12" /> Git
-      </td>
     </tr>
     <tr>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> MySQL
-      </td>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
@@ -81,23 +49,8 @@
         />
         <img width="12" /> Visual Studio Code
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13" /> Next Js
-      </td>
     </tr>
     <tr>
-    <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13"/> Firebase
-      </td>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
@@ -130,13 +83,6 @@
           alt="java logo"
         />
         <img width="12" /> Java
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13"/> Go
       </td>
     </tr>
   </tbody>
