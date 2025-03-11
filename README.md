@@ -15,7 +15,6 @@
 <div align="center">
 <table>
   <tbody>
-    <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
           height="41"
