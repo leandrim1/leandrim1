@@ -30,7 +30,6 @@
         />
         <img width="12" /> Javascript
       </td>
-    <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
           height="41"
@@ -38,7 +37,6 @@
         />
         <img width="13" /> ReactJs
       </td>
-    </tr>
     <tr>
       <td>
         <img
